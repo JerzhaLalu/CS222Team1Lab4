@@ -42,9 +42,9 @@ CalculatorAppLab4/
    ```bash
    F5  # or Debug > Start Debugging
    ```
-## 📸 Screenshots
+## 📸 Screenshot
 
-
+![Calculator UI](Screenshot.png)
 
 ## 🟰 Team Members
 
@@ -55,10 +55,6 @@ CalculatorAppLab4/
 | Ken Ian Ramirez  | 23-00686@g.batstate-u.edu.ph | 
 | Albert Soriano Jr.    | 23-03014@g.batstate-u.edu.ph |
 
-- Course:
-  - CS 211 (Object-Oriented Programming)
-- Course Facilitator:
-  - Fatima Marie Agdon
 
 
 
